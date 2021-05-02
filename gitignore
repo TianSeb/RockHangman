@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 jspm_packages
 
 # Compiled source #
@@ -38,5 +38,3 @@ jspm_packages
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-node_modules/
